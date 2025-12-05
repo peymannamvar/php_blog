@@ -9,5 +9,6 @@
   <h1 class="text-3xl font-bold underline">
     Hello world!
   </h1>
+  <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloribus cum, molestias ipsa dignissimos a eos eaque? Ea ipsam aspernatur numquam nam incidunt vitae distinctio ab molestiae dolorum! Iste, officia eos?</p>
 </body>
 </html>
