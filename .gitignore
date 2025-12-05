@@ -1,0 +1,24 @@
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# PHP/Composer (اگر بعداً استفاده کردی)
+vendor/
+
+# Environment variables (اگر ساختی)
+.env
+
+# Cache & temp
+cache/
+tmp/
+
+# Node.js (اگر Tailwind یا ابزارهای فرانت رو با npm نصب کردی)
+node_modules/
+package-lock.json
