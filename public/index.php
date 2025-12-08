@@ -74,6 +74,17 @@
   </section>
   </div>
 
+  <!-- Postes -->
+  <section>
+    <div class="container">
+      <div class="min-h-12 flex items-center justify-between bg-primary rounded-xl">
+        <h3 class="text-white font-bold text-xl">پست ها</h3>
+        <a href="#" class="inline-block text-sm text-white underline">مشاهده همه</a>
+      </div>
+    </div>
+  </section>
+
+
 </body>
 
 </html>
